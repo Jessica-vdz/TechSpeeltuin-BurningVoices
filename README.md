@@ -36,10 +36,6 @@ The website uses this information to display content related to the selected top
 - CSS
 - C/C++ (Arduino)
 
-## What I Learned
-
-This project was a valuable learning experience that helped me develop my technical skills through hands-on work. I gained experience working with electronic components, programming an Arduino, detecting colours using light measurements, and connecting hardware to a website.
-
 ## Demo
 
 [Watch the Burning Voices project demo on YouTube](https://www.youtube.com/watch?v=W3MwVEPC1I8)
